@@ -1,4 +1,4 @@
-# Notas de Python 🐍 
+e# Notas de Python 🐍 
 > Escrito por manu cartes.
 > 20 de junio de 2021 
 
